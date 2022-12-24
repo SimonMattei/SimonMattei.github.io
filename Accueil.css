@@ -17,7 +17,6 @@
 }
 
 .u-section-1 .u-text-1 {
-  width: 442px;
   font-family: "Akaya Kanadaka";
   margin: 42px auto 0;
 }
@@ -97,7 +96,6 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 0;
-    margin-left: 311px;
   }
 
   .u-section-1 .u-gallery-1 {
@@ -113,10 +111,6 @@
 
   .u-section-1 .u-group-1 {
     width: 720px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-left: auto;
   }
 
   .u-section-1 .u-gallery-1 {
@@ -165,12 +159,6 @@
   .u-section-1 .u-group-1 {
     width: 340px;
     margin-top: -1348px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 127px;
-    margin-left: 127px;
-    width: 340px;
   }
 
   .u-section-1 .u-gallery-1 {
